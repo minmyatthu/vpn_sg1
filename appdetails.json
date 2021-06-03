@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Singapore","country":"singapore","image":"singapore","ip":"128.199.89.222","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Singapore1","country":"singapore","image":"singapore","ip":"34.87.109.27","active":"true","signal":"b"},
+    {"id":0, "file":, "city":"Singapore","country":"singapore","image":"singapore","ip":"128.199.89.222","active":"true","signal":"a"},
+    {"id":1, "file":, "city":"Singapore1","country":"singapore","image":"singapore","ip":"34.87.109.27","active":"true","signal":"b"},
   ]
 }
