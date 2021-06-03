@@ -1,6 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"
+    {"id":0,"file":0"
 setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
@@ -124,7 +124,7 @@ d9e97455889e4bfec538ab40c21cfb59
   
 {
   "ovpn_file":[
-    {"id":1,"file":"
+    {"id":1,"file":0"
 setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
