@@ -17,6 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"singapore","country":"Singapore","image":"singapore","ip":"128.199.89.222","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"singapore","country":"Singapore","image":"singapore","ip":"34.87.109.27","active":"true","signal":"b"},
+    {"id":1, "file":1, "city":"singapore","country":"Singapore","image":"singapore-GCP","ip":"34.87.109.27","active":"true","signal":"a"},
   ]
 }
